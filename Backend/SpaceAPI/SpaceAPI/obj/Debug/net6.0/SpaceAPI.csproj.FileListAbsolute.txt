@@ -1,0 +1,264 @@
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.AssemblyReference.cache
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.GeneratedMSBuildEditorConfig.editorconfig
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfoInputs.cache
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfo.cs
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CoreCompileInputs.cache
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cs
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cache
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.Development.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.exe
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.deps.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Humanizer.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.build.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.development.json
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\scopedcss\bundle\SpaceAPI.styles.css
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CopyComplete
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.genruntimeconfig.cache
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MySqlConnector.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\New folder\C#\VizsgaProject\SpaceAPI\SpaceAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.exe
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.deps.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.pdb
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.AssemblyReference.cache
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfoInputs.cache
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfo.cs
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CoreCompileInputs.cache
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\scopedcss\bundle\SpaceAPI.styles.css
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CopyComplete
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\refint\SpaceAPI.dll
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.pdb
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.genruntimeconfig.cache
+C:\Users\jancsurakb\Desktop\Új mappa\SpaceAPI\SpaceAPI\obj\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.AssemblyReference.cache
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.GeneratedMSBuildEditorConfig.editorconfig
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfoInputs.cache
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfo.cs
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CoreCompileInputs.cache
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cs
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cache
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.Development.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.exe
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.deps.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Humanizer.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MySqlConnector.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.build.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.development.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\scopedcss\bundle\SpaceAPI.styles.css
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CopyComplete
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.genruntimeconfig.cache
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MailKit.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MimeKit.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Scrutor.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipclass.json
+W:\New folder\git\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipequipmentcost.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipclass.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipequipmentcost.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.exe
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.deps.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.pdb
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MailKit.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MimeKit.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Scrutor.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.AssemblyReference.cache
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfoInputs.cache
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfo.cs
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CoreCompileInputs.cache
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\scopedcss\bundle\SpaceAPI.styles.css
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CopyComplete
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\refint\SpaceAPI.dll
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.pdb
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.genruntimeconfig.cache
+C:\Users\lekne\Source\Repos\galaxy_project\SpaceAPI\SpaceAPI\obj\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.Development.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\appsettings.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipclass.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Data\Settings\shipequipmentcost.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.exe
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.deps.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Humanizer.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MailKit.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MimeKit.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\MySqlConnector.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Scrutor.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.AssemblyReference.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.GeneratedMSBuildEditorConfig.editorconfig
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfoInputs.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.AssemblyInfo.cs
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CoreCompileInputs.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cs
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.MvcApplicationPartsAssemblyInfo.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.build.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\staticwebassets.development.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\scopedcss\bundle\SpaceAPI.styles.css
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.csproj.CopyComplete
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\ref\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPI\obj\Debug\net6.0\SpaceAPI.genruntimeconfig.cache

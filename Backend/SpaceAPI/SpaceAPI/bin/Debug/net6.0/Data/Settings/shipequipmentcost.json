@@ -1,0 +1,74 @@
+[
+  {
+    "Id" :  100,
+    "Name": "Kinetic",
+    "Steelmultiplier": 150,
+    "Uraniummultiplier": 75,
+    "Carbonmultiplier": 100,
+    "Gasmultiplier": 75
+  },
+  {
+    "Id": 101,
+    "Name": "Chemical",
+    "Steelmultiplier": 50,
+    "Uraniummultiplier": 125,
+    "Carbonmultiplier": 75,
+    "Gasmultiplier": 150
+  },
+  {
+    "Id": 102,
+    "Name": "Energy",
+    "Steelmultiplier": 50,
+    "Uraniummultiplier": 150,
+    "Carbonmultiplier": 75,
+    "Gasmultiplier": 125
+  },
+  {
+    "Id": 200,
+    "Name": "Alloy Armor",
+    "Steelmultiplier": 150,
+    "Uraniummultiplier": 50,
+    "Carbonmultiplier": 150,
+    "Gasmultiplier": 50
+  },
+  {
+    "Id": 201,
+    "Name": "Reactive Armor",
+    "Steelmultiplier": 75,
+    "Uraniummultiplier": 50,
+    "Carbonmultiplier": 125,
+    "Gasmultiplier": 150
+  },
+  {
+    "Id": 202,
+    "Name": "Shield",
+    "Steelmultiplier": 50,
+    "Uraniummultiplier": 150,
+    "Carbonmultiplier": 75,
+    "Gasmultiplier": 125
+  },
+  {
+    "Id": 300,
+    "Name": "Utilitarian",
+    "Steelmultiplier": 150,
+    "Uraniummultiplier": 50,
+    "Carbonmultiplier": 75,
+    "Gasmultiplier": 125
+  },
+  {
+    "Id": 301,
+    "Name": "Balanced",
+    "Steelmultiplier": 100,
+    "Uraniummultiplier": 100,
+    "Carbonmultiplier": 100,
+    "Gasmultiplier": 100
+  },
+  {
+    "Id": 302,
+    "Name": "Mobility Focused",
+    "Steelmultiplier": 50,
+    "Uraniummultiplier": 150,
+    "Carbonmultiplier": 75,
+    "Gasmultiplier": 125
+  }
+]

@@ -1,0 +1,276 @@
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\testhost.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.deps.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\appsettings.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Data\Settings\shipclass.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Data\Settings\shipequipmentcost.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.exe
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\testhost.exe
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.deps.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.runtimeconfig.json
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.pdb
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MailKit.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MimeKit.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Scrutor.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.pdb
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.AssemblyReference.cache
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.AssemblyInfoInputs.cache
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.AssemblyInfo.cs
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.CoreCompileInputs.cache
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.CopyComplete
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\refint\SpaceAPITests.dll
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.pdb
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.genruntimeconfig.cache
+C:\Users\lekne\source\repos\galaxy_project\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\ref\SpaceAPITests.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\CoverletSourceRootsMapping
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\appsettings.Development.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\appsettings.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Data\Settings\shipclass.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Data\Settings\shipequipmentcost.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\testhost.exe
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\testhost.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.deps.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.runtimeconfig.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.exe
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.deps.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.runtimeconfig.json
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ref\SpaceAPITests.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPITests.pdb
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MailKit.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MimeKit.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\MySqlConnector.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\NuGet.Frameworks.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Scrutor.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\bin\Debug\net6.0\SpaceAPI.pdb
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.AssemblyReference.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.GeneratedMSBuildEditorConfig.editorconfig
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.AssemblyInfoInputs.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.AssemblyInfo.cs
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.CoreCompileInputs.cache
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.csproj.CopyComplete
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\ref\SpaceAPITests.dll
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.pdb
+W:\New folder\git\project_galaxy\Backend\SpaceAPI\SpaceAPITests\obj\Debug\net6.0\SpaceAPITests.genruntimeconfig.cache

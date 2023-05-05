@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cccd35d-633f-4d6b-a51f-c47bdce5a7ce": {
+      "ProjectGuid": "5cccd35d-633f-4d6b-a51f-c47bdce5a7ce",
+      "DisplayName": "SpaceAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

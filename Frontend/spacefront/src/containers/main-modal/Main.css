@@ -1,0 +1,81 @@
+.main-modal-container {
+    width: 70vw;
+    height: 70vh;
+    padding: 4rem 2rem 0 2rem;
+    position: absolute;
+    z-index: 300;
+    overflow: hidden;
+    margin-left: 65%;
+    
+}
+
+.close-button {
+    z-index: 300;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    height: 3rem;
+    width: 3rem;
+    border: none;
+    background-color: blueviolet;
+    image-rendering: crisp-edges;
+    font-size: 20px;
+    font-weight: 800;
+    color: aliceblue;
+    font-family: 'Retrothunders', sans-serif;
+}
+.close-button:hover{
+    background-color: rgb(29, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.main-modal-popup {
+    position: relative;
+    background-image: url('../../../public/images/modalbg_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 2px solid rebeccapurple;
+}
+
+
+.main-modal-title {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    padding: 1rem 0;
+    text-shadow: 2px 2px black;
+    margin: 0;
+    font-family: 'Computo', sans-serif;
+}
+
+.main-modal-header {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    position: relative;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 60%, rgba(0,108,255,0) 100%);
+}
+
+.main-modal-body {
+    padding: 1rem;
+    background-color: rgba(71, 3, 66, 0.9);
+    height: 100%;
+    overflow: auto;
+    display: flex;
+    margin: 1rem 1rem 0 1rem;
+    justify-content: center;
+}
+
+
+@media only screen and (max-height: 480px) {
+    .main-modal-container {
+        padding: 2rem 1rem 0 1rem;
+        width: 70vw;
+        height: 90vh;
+        margin-top: 0%;
+    }
+
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Béla",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Pista",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Pista",
+        "receiver": "Example",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Pista",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1998-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Béla",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2000-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Pista",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Example",
+        "receiver": "Béla",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Pista",
+        "receiver": "Example",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "1995-12-13T03:24:00",
+        "sender": "Pista",
+        "receiver": "Example",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "András",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "Valamihe",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "András",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "SkillIssue1",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "Lókuki",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "John",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "date": "2023-05-04T00:24:00",
+        "sender": "Example",
+        "receiver": "Krisztus",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+]
